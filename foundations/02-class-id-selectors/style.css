@@ -1,10 +1,10 @@
 #all-divs {
-  color: blue;
+  color: rgb(5, 5, 247);
   font-size: 36px;
 }
 
 .fourth {
-  background-color: lightgreen;
+  background-color: rgb(134, 245, 134);
   font-size: 24px;
   font-weight: bold;
 }
@@ -14,6 +14,6 @@
   font-family: Verdana, DeJavu Sans, sans-serif;
 }
 
-.odd.third {
+#four {
   font-size: 24px;
 }
