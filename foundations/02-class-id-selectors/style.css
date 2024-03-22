@@ -1,19 +1,19 @@
-#all-divs {
-  color: rgb(5, 5, 247);
+#two {
+  color: rgb(7, 7, 240);
   font-size: 36px;
 }
 
-.fourth {
-  background-color: rgb(134, 245, 134);
+#four {
+  background-color: rgb(140, 240, 140);
   font-size: 24px;
   font-weight: bold;
 }
 
 .odd {
-  background-color: rgb(255, 127, 148);
-  font-family: Verdana, DeJavu Sans, sans-serif;
+background-color: rgb(255, 155, 170);
+font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-#four {
+.custom-size {
   font-size: 24px;
 }
